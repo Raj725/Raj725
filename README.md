@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm **Rajendra Kadam**! 👋
 
-<!--
-**Raj725/Raj725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇮🇳 I'm a software engineer based in Pune, India.
 
-Here are some ideas to get you started:
+⚡ With over 8 years of experience, I specialize in developing comprehensive software solutions for various teams and organizations worldwide. 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently, I'm a Senior Software Engineer at [Daxa AI](https://github.com/daxa-ai), where I continue to enhance my skills and contribute to innovative projects. 🤓
+
+🛠️ I specialize in Neo4j and Cypher and am proficient in Python, Django, and more. 
+
+🌱 I’m currently learning AI Retrieval-Augmented Generation (RAG).
+
+💬 Ask me about:
+* Neo4j
+* Cypher
+* RAG
+
+📫 You can find me on:
+* [LinkedIn](https://linkedin.com/in/Raj725)
+* [Website: www.rajendrakadam.com](https://www.rajendrakadam.com/)
+* [Twitter: @raj__725](https://twitter.com/raj__725)
+* [StackOverflow](https://stackoverflow.com/users/6077914/rajendra-kadam)
+* [GitHub: @Raj725 (you are here)](https://github.com/Raj725)
