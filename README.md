@@ -17,7 +17,7 @@
 
 📫 You can find me on:
 * [LinkedIn](https://linkedin.com/in/Raj725)
-* [Website: www.rajendrakadam.com](https://www.rajendrakadam.com/)
+* [Website: rajendrakadam.com](https://rajendrakadam.com/)
 * [Twitter: @raj__725](https://twitter.com/raj__725)
 * [StackOverflow](https://stackoverflow.com/users/6077914/rajendra-kadam)
 * [GitHub: @Raj725 (you are here)](https://github.com/Raj725)
